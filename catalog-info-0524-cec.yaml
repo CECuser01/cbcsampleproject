@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "パイロット公開用プロジェクト"
+  name: "PilotProject"
 spec:
   type: service
   owner: user:guest
